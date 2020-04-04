@@ -37,13 +37,9 @@ acorn-walk@^6.1.1:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-6.2.0.tgz#123cb8f3b84c2171f1f7fb252615b1c78a6b1a8c"
 
-acorn@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.0.0.tgz#913d61a3a93dd1638ebe3033395083192ee0ae73"
-
-acorn@^6.1.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.2.1.tgz#3ed8422d6dec09e6121cc7a843ca86a330a86b51"
+acorn@6.4.1, acorn@^6.1.1:
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
 
 after@0.8.2:
   version "0.8.2"
